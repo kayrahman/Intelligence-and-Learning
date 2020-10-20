@@ -7,3 +7,11 @@ Genetic Algorithm, Machine Learning, Neural Network
 ### Search Algorithms: 
   #### Binary Search Tree:
   #### Breadth First Algorithm:
+
+## Machine Learning:
+### Transfer Learning:
+  * Features Extractor.
+  * Layers
+  * Vectors
+  * Convolution
+  
