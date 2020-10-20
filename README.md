@@ -10,8 +10,8 @@ Genetic Algorithm, Machine Learning, Neural Network
 
 ## Machine Learning:
 ### Transfer Learning:
-  * Features Extractor.
-  * Layers
-  * Vectors
-  * Convolution
+  - Features Extractor.
+      * Layers
+      * Vectors
+      * Convolution
   
