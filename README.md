@@ -14,4 +14,6 @@ Genetic Algorithm, Machine Learning, Neural Network
       * Layers
       * Vectors
       * Convolution
+  - Classification
   
+  - Regression : Instead of using a label training data with assigning number to them.
