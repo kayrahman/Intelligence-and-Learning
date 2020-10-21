@@ -47,7 +47,7 @@ Genetic Algorithm, Machine Learning, Neural Network
   - Linear Regression:
     * Ordinary Least squares:
     
-    $\alpha$ $\beta$
+    \alpha \beta \sigma
 
 
 ### Neural Network :
