@@ -32,7 +32,10 @@ Genetic Algorithm, Machine Learning, Neural Network
       This Learning is applied on the data we know nothing about. It applies to the problems like clustering or finding patterns of some unknow dataset.
    - Reinforement Learning:
         Reinforcement Learning is a kind of learning where an agent observes the environment and chooses an action. 
-   
+        
+        
+        
+ 
 
 
 ### Transfer Learning:
@@ -70,5 +73,45 @@ Genetic Algorithm, Machine Learning, Neural Network
       * How we initialize the weights and tweek it
       
  Learning Rate:     
+    
+    
+    
+   ### Google Facenet API:
+  
+  - Embeddings: Semantic Meaning
+  - Distance:
+     * Caretsian Distance:
+     * Eucledian Distance:
+  L2 Norm   
+  
+  - Triplet Loss:
+      * Anchor
+      * Positive
+      * Negative
+      
+ - Google Net Inception Network
+ 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
