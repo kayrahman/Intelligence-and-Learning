@@ -47,7 +47,13 @@ Genetic Algorithm, Machine Learning, Neural Network
   - Linear Regression:
     * Ordinary Least squares:
     
-    \alpha \beta \sigma
+  - Gradient Descent:
+    * Prerequisites
+      * Calculus
+          * Partial derivatives
+          * Chain Rule
+    
+    ![sigma](http://latex.codecogs.com/svg.latex?%5Csum_%7Bi%3D1%7D%5E%7B100%7Di)
 
 
 ### Neural Network :
